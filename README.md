@@ -3,14 +3,13 @@
 
 ![image](https://user-images.githubusercontent.com/70807684/126077765-4f1f96ab-c054-4412-9f3a-1c977129a312.png)
 
-<img src="https://profile-counter.glitch.me/AvidCoder101/count.svg">
+<img src="https://profile-counter.glitch.me/chennakeshava /count.svg">
 
-[![GitHub followers](https://img.shields.io/github/followers/AvidCoder101.svg?style=social&label=Followers)](https://github.com/AvidCoder101?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/AvidCoder101.svg?style=social&label=Followers)](https://github.com/chennakeshava8555?tab=followers)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+AvidCoder!;I'm+a+learning+developer...;I'm+a+CRAZY+football+fan;And+I'm+a+proud+GitHub+user)](https://git.io/typing-svg)
 <h3> Here's some fun facts about me: </h3>
 
-- **I am a ***HUGE Harry Potter fan***⚡🧙🏻‍♂️**
 -  **I'm a hopeful web and app developer 👩🏻‍💻**
 -  **I am a true science lover 🔬**
 -  **Finally, I'm a football-watching frenzy ⚽!**
@@ -18,23 +17,21 @@
 
 ### Here's my github README stats:
 
-![AvidCoder101 GitHub stats](https://github-readme-stats.vercel.app/api?username=AvidCoder101&show_icons=true&theme=radical) 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AvidCoder101&theme=radical)](https://git.io/streak-stats) 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AvidCoder101)](https://github.com/ryo-ma/github-profile-trophy)
+![chennakeshava8555 GitHub stats](https://github-readme-stats.vercel.app/api?username=chennakeshava8555&show_icons=true&theme=radical) 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chennakeshava8555&theme=radical)](https://git.io/streak-stats) 
+[![trophy](https://github-profile-trophy.vercel.app/?username=chennakeshava8555)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ### Yo! Look at this snake eating up my contributions! <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30">  :
 
-![snake gif](https://github.com/AvidCoder101/AvidCoder101/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/chennakeshava8555/chennakeshava8555/blob/output/github-contribution-grid-snake.gif)
 
 
 ### Some of my public repositories (not forks):
 
-- **[My Profile Repo - AvidCoder101/AvidCoder101](https://github.com/AvidCoder101/AvidCoder101)**
-- **[My BMI Calculator Repo - AvidCoder101/BMICalculator](https://github.com/AvidCoder101/BMICalculator)**
-- **[My To-do List Repo - AvidCoder101/To-do-list](https://github.com/AvidCoder101/To-do-list)**
-- **[My Harry Potter Quiz Repo - AvidCoder101/Harry-Potter-Quiz](https://github.com/AvidCoder101/Harry-Potter-Quiz)**
-- **[My Drawing Repo - AvidCoder101/Drawing-App](https://github.com/AvidCoder101/Drawing-App)**
+- **[My Profile Repo - AvidCoder101/AvidCoder101](https://github.com/chennakeshava8555/My_github_portfolio)**
+- **[My BMI Calculator Repo - AvidCoder101/BMICalculator](https://github.com/chennakeshava8555/BMICalculator)**
+- **[My To-do List Repo - AvidCoder101/To-do-list](https://github.com/chennakeshava8555/To-do-list)**
 - **[My Clock Repo - AvidCoder101/Clock-App](https://github.com/AvidCoder101/Clock-App)**
 
 #### Most of these repos are also able to contribute to on the [CodingContributorsLair](https://github.com/CodingContributorsLair/) organization. Check them out!
@@ -79,6 +76,6 @@
 
 ------
 
-Credit : [AvidCoder101](https://github.com/AvidCoder101)
+Credit : [AvidCoder101](https://github.com/chennakeshava8555)
 
 Last Edited On: 31/08/2021
