@@ -1,81 +1,37 @@
-# My_github_portfolio
-# Hey all! <img src= "https://media2.giphy.com/media/Lm5hxmmI6ucOQGfjKj/giphy.gif?cid=6c09b952o9xti0m387z597k2xqipch3qmqjydym98oef87ve&rid=giphy.gif&ct=s" width= "30" height= "30"> <img src= "https://media.tenor.com/images/2adfe94e69139f3e22623b61d375a7a7/tenor.gif" width= "30" height= "30">
+<h1 align="center">Hi 👋, I'm Chennakeshava Yeddula</h1>
+<h3 align="center">I'm Chennakeshava Yeddula, a 23-year old technical enthusiast who does web development, security research and ML/DL development. Passionate to contribute open-source projects and make cool products.</h3>
 
-![image](https://user-images.githubusercontent.com/70807684/126077765-4f1f96ab-c054-4412-9f3a-1c977129a312.png)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chennakeshava8555" alt="chennakeshava8555" /> </p>
 
-<img src="https://profile-counter.glitch.me/chennakeshava /count.svg">
+- 🔭 I’m currently working on [FaceMask- Access Control](https://github.com/chennakeshava8555/Face-Mask-Detector)
 
-[![GitHub followers](https://img.shields.io/github/followers/AvidCoder101.svg?style=social&label=Followers)](https://github.com/chennakeshava8555?tab=followers)
+- 🌱 I’m currently learning ** JAVA FULLSTACK **
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+AvidCoder!;I'm+a+learning+developer...;I'm+a+CRAZY+football+fan;And+I'm+a+proud+GitHub+user)](https://git.io/typing-svg)
-<h3> Here's some fun facts about me: </h3>
+- 👯 I’m looking to collaborate on [CensorLabel](https://github.com/chennakeshava8555/CensorLabel)
 
--  **I'm a hopeful web and app developer 👩🏻‍💻**
--  **I am a true science lover 🔬**
--  **Finally, I'm a football-watching frenzy ⚽!**
--  **I'm the founder of [the CodingContributorsLair Organization](https://github.com/CodingContributorsLair/)**
+- 👨‍💻 All of my projects are available at [https:/chennakeshava8555.me](https://chennakeshava8555.me)
 
-### Here's my github README stats:
+- 📫 How to reach me **info@chennakeshava.me**
 
-![chennakeshava8555 GitHub stats](https://github-readme-stats.vercel.app/api?username=chennakeshava8555&show_icons=true&theme=radical) 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chennakeshava8555&theme=radical)](https://git.io/streak-stats) 
-[![trophy](https://github-profile-trophy.vercel.app/?username=chennakeshava8555)](https://github.com/ryo-ma/github-profile-trophy)
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
+<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>  <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>  <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chennakeshava8555&layout=compact&hide=html" alt="chennakeshava8555" /></p>
 
-### Yo! Look at this snake eating up my contributions! <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30">  :
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chennakeshava8555&show_icons=true" alt="chennakeshava8555" /></p>
 
-![snake gif](https://github.com/chennakeshava8555/chennakeshava8555/blob/output/github-contribution-grid-snake.gif)
+<p align="center">
+<a href="https://dev.to/chennakeshava8555" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="chennakeshava8555" height="30" width="30" /></a>
+<a href="https://twitter.com/Mrakhilg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mrchennakeshava_y" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/chenna-keshava8555/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="chennakeshava" height="30" width="30" /></a>
+<a href="https://stackoverflow.com/users/10321356" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="10321356" height="30" width="30" /></a>
+<a href="https://fb.com/chennakeshava" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="akhilgkrishnan9800" height="30" width="30" /></a>
+<a href="https://instagram.com/chennakeshava839" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="chennakeshava" height="30" width="30" /></a>
+<a href="https://medium.com/@chennakeshava" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@chennakeshava" height="30" width="30" /></a>
+</p>
 
+----
+Credit: [chennakeshava](https://github.com/chennakeshava8555)
 
-### Some of my public repositories (not forks):
-
-- **[My Profile Repo - AvidCoder101/AvidCoder101](https://github.com/chennakeshava8555/My_github_portfolio)**
-- **[My BMI Calculator Repo - AvidCoder101/BMICalculator](https://github.com/chennakeshava8555/BMICalculator)**
-- **[My To-do List Repo - AvidCoder101/To-do-list](https://github.com/chennakeshava8555/To-do-list)**
-- **[My Clock Repo - AvidCoder101/Clock-App](https://github.com/AvidCoder101/Clock-App)**
-
-#### Most of these repos are also able to contribute to on the [CodingContributorsLair](https://github.com/CodingContributorsLair/) organization. Check them out!
-### Some awesome repos that people and organizations have made:
-
-- **[Markdown-dungeon - MakeContributions](https://github.com/MakeContributions/markdown-dungeon)**
-- **[Resources - zero-to-mastery](https://github.com/zero-to-mastery/resources)**
-- **[Github stats - anuraghazra](https://github.com/anuraghazra/github-readme-stats)**
-- **[Jobream - List-of-Learning-Resources](https://github.com/Jobream/List-of-Learning-Resources)**
-- **[EddieHubCommunity - awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)**
-
-### Organizations that I have contributed to:
-
-[<img src= "https://avatars.githubusercontent.com/u/66388388?s=88&v=4" height= "50" width= "50">](https://github.com/EddieHubCommunity)
-[<img src= "https://avatars.githubusercontent.com/u/35373879?s=60&v=4" height= "50" width= "50">](https://github.com/zero-to-mastery)
-[<img src= "https://avatars.githubusercontent.com/u/87652881?s=200&v=4" height= "50" width= "50">](https://github.com/CodingContributorsLair)
-[<img src= "https://avatars.githubusercontent.com/u/67384272?s=88&v=4" height= "50" width= "50">](https://github.com/MakeContributions)
-[<img src= "https://avatars.githubusercontent.com/u/37713493?s=88&v=4" height= "50" width= "50">](https://github.com/firstcontributions)
-[<img src= "https://avatars.githubusercontent.com/u/24355438?s=88&v=4" height= "50" width= "50">](https://github.com/fnplus)
-[<img src= "https://avatars.githubusercontent.com/u/68013560?s=88&v=4" height= "50" width= "50">](https://github.com/jobream)
-[<img src= "https://avatars.githubusercontent.com/u/88003901?s=60&v=4" height= "50" width= "50">](https://github.com/App-Choreography)
-[<img src= "https://avatars.githubusercontent.com/u/78741698?s=60&v=4" height= "50" width= "50">](https://github.com/chryz-hub)
-[<img src= "https://avatars.githubusercontent.com/u/55499010?s=60&v=4" height= "50" width= "50">](https://github.com/devcreatives)
-[<img src= "https://avatars.githubusercontent.com/u/69833530?s=60&v=4" height= "50" width= "50">](https://github.com/uncodedtech)
-
-### Here's the languages that I am currently working on:
-
-![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-
-### Here's my Codewars stats:
-
-<img src= "https://www.codewars.com/users/edu_Itis/badges/micro" width= "200"/>
-
-### Thank you for visiting my profile 🤓 
-
-### Feel free to fork and 🌟 this repo!!
-
-------
-
-Credit : [AvidCoder101](https://github.com/chennakeshava8555)
-
-Last Edited On: 31/08/2021
+Last Edited on: 23/09/2026
